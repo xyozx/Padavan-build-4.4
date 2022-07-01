@@ -125,5 +125,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: MI-R4A
+        name: MI-R4A PDV
         path: /opt/images
