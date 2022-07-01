@@ -1,5 +1,5 @@
 #MI-R4A-20220701
-name: Build Padavan
+name: Build Padavan MI-R4A
 
 on:
   release:
