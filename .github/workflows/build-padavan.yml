@@ -1,5 +1,5 @@
 #修改TNAME: MI-R4A 中的MI-R4A为你需要编译的型号，注意名称要与configs/templates/目录下的名字相同
-name: Build Padavan keke1023
+name: Build Padavan etion2008
 
 on: 
   release:
@@ -125,5 +125,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: MI-R4A_keke1023_20220701
+        name: MI-R4A_etion2008_20220701
         path: /opt/images
